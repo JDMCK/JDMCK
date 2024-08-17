@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, my name is Jesse! 👋
+Welcome to my GitHub, feel free to poke around!
 
-<!--
-**JDMCK/JDMCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Livs in Canada 🍁
+- Loves computers 💻
+- Plays guitar 🎸
+- Rides longboards 🛹
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- Low level 🧮
+- Web and mobile 📱
+- Games 🕹️
+- Literally anything that involves writing software 👨‍💻
