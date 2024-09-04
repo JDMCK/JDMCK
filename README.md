@@ -2,7 +2,7 @@
 Welcome to my GitHub, feel free to poke around!
 
 ### About Me
-- Livs in Canada 🍁
+- Lives in Canada 🍁
 - Loves computers 💻
 - Plays guitar 🎸
 - Rides longboards 🛹
