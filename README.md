@@ -8,7 +8,7 @@ Welcome to my GitHub, feel free to poke around!
 - Rides longboards 🛹
 
 ### Areas of Interest
-- Low level programming 🧮
 - Web and mobile 📱
 - Games 🕹️
+- Low level programming 🧮
 - Literally anything that involves writing software 👨‍💻
